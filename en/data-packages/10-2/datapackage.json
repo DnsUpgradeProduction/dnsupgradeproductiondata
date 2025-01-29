@@ -46,7 +46,7 @@
             "constraints": {
               "enum": [
                 "Germany",
-                "EU",
+                "European Union",
                 "Eurozone",
                 ""
               ]

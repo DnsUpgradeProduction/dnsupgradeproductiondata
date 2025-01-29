@@ -31,43 +31,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Raucherquote von Jugendlichen",
-                "Raucherquote von Erwachsenen",
+                "c) Jugendliche",
+                "d) Erwachsene",
                 ""
               ]
             },
             "title": "Zeitreihe"
           },
           {
-            "name": "federal state",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Württemberg",
-                "Bayern",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hessen",
-                "Mecklenburg-Vorpommern",
-                "Niedersachsen",
-                "Nordrhein-Westfalen",
-                "Rheinland-Pfalz",
-                "Saarland",
-                "Sachsen",
-                "Sachsen-Anhalt",
-                "Schleswig-Holstein",
-                "Thüringen",
+                "Weiblich",
+                "Männlich",
                 ""
               ]
             },
-            "title": "Bundesland"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "title": "Geschlecht"
           },
           {
             "name": "Value",

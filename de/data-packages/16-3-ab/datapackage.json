@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Corruption Perception Index in Deutschland",
-                "Anzahl der Partnerländer deutscher Entwicklungszusammenarbeit, deren Bewertung sich gegenüber 2012 verbessert hat",
+                "a) Corruption Perception Index in Deutschland",
+                "b) Corruption Perception Index in den Partnerländern der deutschen Entwicklungszusammenarbeit",
                 ""
               ]
             },

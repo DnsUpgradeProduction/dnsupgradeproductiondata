@@ -33,7 +33,7 @@
               "enum": [
                 "Alle leitungsgebundenen Technologien",
                 "Reine Glasfasernetze (FTTB/H)",
-                "Kabelfernsehen (CATV)",
+                "Hybrid Fiber Coax (HFC)",
                 ""
               ]
             },
@@ -50,5 +50,5 @@
   ],
   "profile": "data-package",
   "name": "9-1-b",
-  "title": "Breitbandausbau"
+  "title": "Breitbandausbau - Anteil der Haushalte mit Zugang zu Gigabit-Breitbandversorgung"
 }

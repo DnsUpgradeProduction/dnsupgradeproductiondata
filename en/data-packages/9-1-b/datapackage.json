@@ -32,8 +32,8 @@
             "constraints": {
               "enum": [
                 "All wired technologies",
-                "Fully fibre-optic networks (FTTB/H)",
-                "Cable television (CATV)",
+                "Fibre-to-the-Building/Home (FTTB/H)",
+                "Hybrid Fiber Coax (HFC)",
                 ""
               ]
             },
@@ -50,5 +50,5 @@
   ],
   "profile": "data-package",
   "name": "9-1-b",
-  "title": "Breitbandausbau"
+  "title": "Breitbandausbau - Anteil der Haushalte mit Zugang zu Gigabit-Breitbandversorgung"
 }

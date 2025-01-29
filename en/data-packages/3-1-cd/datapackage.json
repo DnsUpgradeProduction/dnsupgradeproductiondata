@@ -31,43 +31,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Smoking rate among adolescents",
-                "Smoking rate among adults",
+                "c) Adolescents",
+                "d) Adults",
                 ""
               ]
             },
             "title": "Time series"
           },
           {
-            "name": "federal state",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "title": "Sex"
           },
           {
             "name": "Value",
