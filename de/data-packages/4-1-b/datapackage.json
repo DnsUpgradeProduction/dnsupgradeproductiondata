@@ -1,0 +1,79 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prozent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Akademisch Qualifizierte und beruflich Höherqualifizierte",
+                "Fachkräftepotenzial (insgesamt)",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "qualification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zweitausbildung, Ausbildung nach Abitur",
+                "Höherqualifizierende Berufsausbildung",
+                "Hochschulabschluss",
+                "Erstausbildung",
+                ""
+              ]
+            },
+            "title": "Qualifizierung"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-1-b",
+  "title": "Akademisch Qualifizierte und beruflich Höherqualifizierte"
+}

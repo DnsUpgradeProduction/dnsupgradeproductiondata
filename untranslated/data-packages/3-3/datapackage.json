@@ -1,0 +1,61 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage",
+                "million eur",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xxxanteil der länder, die deutschland bei der pandemieprävention, -vorsorge und -reaktion (ppr) unterstützt und die im global health security index (ghsi) fortschritte gemacht haben, an der anzahl der länder, die deutschland im bereich ppr unterstützt",
+                "germany’s contribution to global pandemic prevention and response",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "xxxzuordnung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "germany’s contribution to global pandemic prevention and response",
+                "separate amount devoted to curbing the covid-19 pandemic",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-3",
+  "title": "Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt"
+}
