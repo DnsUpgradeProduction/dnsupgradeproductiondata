@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Financial Action Task Force (FATF) rating effectiveness",
-                "<u>Infolinie:</u> Financial Action Task Force (FATF) rating technical compliance",
+                "Effectiveness",
+                "<u>Infolinie:</u> Technical compliance",
                 ""
               ]
             },
@@ -43,10 +43,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Effectiveness = Substantial or high",
-                "Effectiveness = Low or moderate",
-                "Technical compliance =  Largely compliant oder compliant",
-                "Technical compliance = Non-compliant oder partially compliant",
+                "Weitgehend oder hoch",
+                "Niedrig oder moderat",
+                "Weitgehend konform oder konform mit den Vorschriften",
+                "Nicht konform oder teilweise konform mit den Vorschriften",
                 ""
               ]
             },

@@ -43,8 +43,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Durch Prävention vermeidbaren Sterblichkeit",
-                "Durch Behandlung vermeidbaren Sterblichkeit",
+                "Durch Prävention vermeidbare Sterblichkeit",
+                "Durch Behandlung vermeidbare Sterblichkeit",
                 ""
               ]
             },

@@ -1091,8 +1091,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Financial Action Task Force (FATF) rating effectiveness",
-                "<u>Infolinie:</u> Financial Action Task Force (FATF) rating technical compliance",
+                "Effectiveness",
+                "<u>Infolinie:</u> Technical compliance",
                 ""
               ]
             },
@@ -1103,10 +1103,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Effectiveness = Substantial or high",
-                "Effectiveness = Low or moderate",
-                "Technical compliance =  Largely compliant oder compliant",
-                "Technical compliance = Non-compliant oder partially compliant",
+                "Weitgehend oder hoch",
+                "Niedrig oder moderat",
+                "Weitgehend konform oder konform mit den Vorschriften",
+                "Nicht konform oder teilweise konform mit den Vorschriften",
                 ""
               ]
             },
@@ -1388,8 +1388,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Corruption Perception Index in Deutschland",
-                "b) Corruption Perception Index in den Partnerländern der deutschen Entwicklungszusammenarbeit",
+                "a) Korruptionswahrnehmungsindex in Deutschland",
+                "b) Korruptionswahrnehmungsindex in den Partnerländern der deutschen Entwicklungszusammenarbeit",
                 ""
               ]
             },
@@ -1549,7 +1549,7 @@
             "title": "Units"
           },
           {
-            "name": "calculation method",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1558,7 +1558,7 @@
                 ""
               ]
             },
-            "title": "Berechnungsmethode"
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -1602,7 +1602,7 @@
           }
         ]
       },
-      "title": "Freiwillige Nachhaltigkeitsberichterstattung von Unternehmen nach dem deutschen Nachhaltigkeitskodex (DNK)"
+      "title": "Freiwillige Nachhaltigkeitsberichterstattung von Unternehmen nach dem Deutschen Nachhaltigkeitskodex (DNK)"
     },
     {
       "path": "15-4/data.csv",
@@ -1800,8 +1800,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) 20- bis 64-Jährige",
-                "b) 55- bis 64-Jährige",
+                "a) Insgesamt (20- bis 64-Jährige)",
+                "b) Ältere (55- bis 64-Jährige)",
                 ""
               ]
             },
@@ -1922,7 +1922,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Differenz zwischen 'Keine Risikolage' und 'Mind. eine Risikolage'",
+                "Differenz zwischen 'Keine Risikolage' und 'Mindestens eine Risikolage'",
                 "Keine Risikolage",
                 "Mindestens eine Risikolage",
                 "Insgesamt",
@@ -1983,8 +1983,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Durch Prävention vermeidbaren Sterblichkeit",
-                "Durch Behandlung vermeidbaren Sterblichkeit",
+                "Durch Prävention vermeidbare Sterblichkeit",
+                "Durch Behandlung vermeidbare Sterblichkeit",
                 ""
               ]
             },

@@ -1091,8 +1091,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Financial Action Task Force (FATF) rating effectiveness",
-                "Financial Action Task Force (FATF) rating technical compliance",
+                "Effectiveness",
+                "XXXTechnical compliance",
                 ""
               ]
             },
@@ -1549,7 +1549,7 @@
             "title": "Units"
           },
           {
-            "name": "calculation method",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1558,7 +1558,7 @@
                 ""
               ]
             },
-            "title": "Calculation method"
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -1602,7 +1602,7 @@
           }
         ]
       },
-      "title": "Freiwillige Nachhaltigkeitsberichterstattung von Unternehmen nach dem deutschen Nachhaltigkeitskodex (DNK)"
+      "title": "Freiwillige Nachhaltigkeitsberichterstattung von Unternehmen nach dem Deutschen Nachhaltigkeitskodex (DNK)"
     },
     {
       "path": "15-4/data.csv",

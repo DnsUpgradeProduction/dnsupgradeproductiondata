@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Financial Action Task Force (FATF) rating effectiveness",
-                "Financial Action Task Force (FATF) rating technical compliance",
+                "Effectiveness",
+                "XXXTechnical compliance",
                 ""
               ]
             },

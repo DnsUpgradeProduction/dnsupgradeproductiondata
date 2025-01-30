@@ -27,7 +27,7 @@
             "title": "Units"
           },
           {
-            "name": "calculation method",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -36,7 +36,7 @@
                 ""
               ]
             },
-            "title": "Calculation method"
+            "title": "Series"
           },
           {
             "name": "Value",
