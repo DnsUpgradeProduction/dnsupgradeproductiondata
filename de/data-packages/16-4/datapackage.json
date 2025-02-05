@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anzahl von Bewertungen",
+                "Anzahl der Bewertungen",
                 ""
               ]
             },
