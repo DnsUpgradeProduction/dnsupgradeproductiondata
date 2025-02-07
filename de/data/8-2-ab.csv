@@ -1,44 +1,44 @@
 Year,Units,Zeitreihe,Value
-2005,Prozent,a) Staatsdefizit,-3.371
-2006,Prozent,a) Staatsdefizit,-1.755
-2007,Prozent,a) Staatsdefizit,0.155
-2008,Prozent,a) Staatsdefizit,-0.263
-2009,Prozent,a) Staatsdefizit,-3.175
-2010,Prozent,a) Staatsdefizit,-4.42
-2011,Prozent,a) Staatsdefizit,-0.84
-2012,Prozent,a) Staatsdefizit,-0.054
-2013,Prozent,a) Staatsdefizit,0.122
-2014,Prozent,a) Staatsdefizit,0.731
-2015,Prozent,a) Staatsdefizit,0.915
-2016,Prozent,a) Staatsdefizit,1.134
-2017,Prozent,a) Staatsdefizit,1.338
-2018,Prozent,a) Staatsdefizit,1.885
-2019,Prozent,a) Staatsdefizit,1.328
-2020,Prozent,a) Staatsdefizit,-4.381
-2021,Prozent,a) Staatsdefizit,-3.167
-2022,Prozent,a) Staatsdefizit,-2.147
-2023,Prozent,a) Staatsdefizit,-2.569
-2024,Prozent,a) Staatsdefizit,-2.625
-2005,Prozent,b) Strukturelles Defizit,-2.315
-2006,Prozent,b) Strukturelles Defizit,-1.958
-2007,Prozent,b) Strukturelles Defizit,-0.822
-2008,Prozent,b) Strukturelles Defizit,-0.793
-2009,Prozent,b) Strukturelles Defizit,-0.597
-2010,Prozent,b) Strukturelles Defizit,-2.272
-2011,Prozent,b) Strukturelles Defizit,-1.183
-2012,Prozent,b) Strukturelles Defizit,0.054
-2013,Prozent,b) Strukturelles Defizit,0.706
-2014,Prozent,b) Strukturelles Defizit,1.078
-2015,Prozent,b) Strukturelles Defizit,1.091
-2016,Prozent,b) Strukturelles Defizit,0.99
-2017,Prozent,b) Strukturelles Defizit,0.697
-2018,Prozent,b) Strukturelles Defizit,1.237
-2019,Prozent,b) Strukturelles Defizit,0.556
-2020,Prozent,b) Strukturelles Defizit,-2.753
-2021,Prozent,b) Strukturelles Defizit,-2.616
-2022,Prozent,b) Strukturelles Defizit,-1.686
-2023,Prozent,b) Strukturelles Defizit,-2.037
-2024,Prozent,b) Strukturelles Defizit,
+2005,Prozent,a) Finanzierungssaldo,-3.371
+2006,Prozent,a) Finanzierungssaldo,-1.755
+2007,Prozent,a) Finanzierungssaldo,0.155
+2008,Prozent,a) Finanzierungssaldo,-0.263
+2009,Prozent,a) Finanzierungssaldo,-3.175
+2010,Prozent,a) Finanzierungssaldo,-4.42
+2011,Prozent,a) Finanzierungssaldo,-0.84
+2012,Prozent,a) Finanzierungssaldo,-0.054
+2013,Prozent,a) Finanzierungssaldo,0.122
+2014,Prozent,a) Finanzierungssaldo,0.731
+2015,Prozent,a) Finanzierungssaldo,0.915
+2016,Prozent,a) Finanzierungssaldo,1.134
+2017,Prozent,a) Finanzierungssaldo,1.338
+2018,Prozent,a) Finanzierungssaldo,1.885
+2019,Prozent,a) Finanzierungssaldo,1.328
+2020,Prozent,a) Finanzierungssaldo,-4.381
+2021,Prozent,a) Finanzierungssaldo,-3.167
+2022,Prozent,a) Finanzierungssaldo,-2.147
+2023,Prozent,a) Finanzierungssaldo,-2.569
+2024,Prozent,a) Finanzierungssaldo,-2.625
+2005,Prozent,b) struktureller Finanzierungssaldo,-2.315
+2006,Prozent,b) struktureller Finanzierungssaldo,-1.958
+2007,Prozent,b) struktureller Finanzierungssaldo,-0.822
+2008,Prozent,b) struktureller Finanzierungssaldo,-0.793
+2009,Prozent,b) struktureller Finanzierungssaldo,-0.597
+2010,Prozent,b) struktureller Finanzierungssaldo,-2.272
+2011,Prozent,b) struktureller Finanzierungssaldo,-1.183
+2012,Prozent,b) struktureller Finanzierungssaldo,0.054
+2013,Prozent,b) struktureller Finanzierungssaldo,0.706
+2014,Prozent,b) struktureller Finanzierungssaldo,1.078
+2015,Prozent,b) struktureller Finanzierungssaldo,1.091
+2016,Prozent,b) struktureller Finanzierungssaldo,0.99
+2017,Prozent,b) struktureller Finanzierungssaldo,0.697
+2018,Prozent,b) struktureller Finanzierungssaldo,1.237
+2019,Prozent,b) struktureller Finanzierungssaldo,0.556
+2020,Prozent,b) struktureller Finanzierungssaldo,-2.753
+2021,Prozent,b) struktureller Finanzierungssaldo,-2.616
+2022,Prozent,b) struktureller Finanzierungssaldo,-1.686
+2023,Prozent,b) struktureller Finanzierungssaldo,-2.037
+2024,Prozent,b) struktureller Finanzierungssaldo,
 2005,Prozent,Bruttoinlandsprodukt (preisbereinigt),0.9
 2006,Prozent,Bruttoinlandsprodukt (preisbereinigt),3.9
 2007,Prozent,Bruttoinlandsprodukt (preisbereinigt),2.9

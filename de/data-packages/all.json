@@ -3021,8 +3021,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Staatsdefizit",
-                "b) Strukturelles Defizit",
+                "a) Finanzierungssaldo",
+                "b) struktureller Finanzierungssaldo",
                 "Bruttoinlandsprodukt (preisbereinigt)",
                 ""
               ]
