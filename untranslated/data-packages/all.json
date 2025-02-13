@@ -59,7 +59,7 @@
             }
           },
           {
-            "name": "Series",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2577,9 +2577,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "difference",
                 "mothers",
                 "fathers",
+                "difference",
                 ""
               ]
             }

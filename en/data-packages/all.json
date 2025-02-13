@@ -64,7 +64,7 @@
             "title": "Units"
           },
           {
-            "name": "Series",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -73,7 +73,7 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Time series"
           },
           {
             "name": "Value",
@@ -2812,9 +2812,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Difference",
                 "Mothers",
                 "Fathers",
+                "Difference",
                 ""
               ]
             },

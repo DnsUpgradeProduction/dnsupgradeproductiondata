@@ -31,9 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Differenz",
                 "Mütter",
                 "Väter",
+                "Differenz",
                 ""
               ]
             },
