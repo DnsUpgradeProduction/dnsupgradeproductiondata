@@ -46,7 +46,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "Units",
@@ -54,6 +54,17 @@
             "constraints": {
               "enum": [
                 "number",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xxxnachhaltigkeitszertifizierte kultur- und medieneinrichtungen",
+                "xxxproduktionen audiovisueller medien, bei denen ökologische standards eingehalten wurden",
                 ""
               ]
             }
@@ -545,8 +556,8 @@
                 "raw material input productivity",
                 "raw material input for consumption, investment and exports",
                 "value of consumption, investment and exports (price-adjusted)",
-                "xxx<u>infolinie:</u> rohstoffeinsatz für konsum und investitionen (rmc)",
-                "xxx<u>infolinie:</u> rohstoffeinsatz für exporte (rmc)",
+                "xxxrohstoffeinsatz für konsum und investitionen (rmc)",
+                "xxxrohstoffeinsatz für exporte (rmc)",
                 ""
               ]
             }
@@ -1563,7 +1574,7 @@
             "constraints": {
               "enum": [
                 "xxxanteil der länder, die deutschland bei der pandemieprävention, -vorsorge und -reaktion (ppr) unterstützt und die im global health security index (ghsi) fortschritte gemacht haben, an der anzahl der länder, die deutschland im bereich ppr unterstützt",
-                "xxxinfolinie - beitrag deutschlands zur globalen pandemieprävention und -reaktion",
+                "xxxbeitrag deutschlands zur globalen pandemieprävention und -reaktion",
                 ""
               ]
             }
@@ -2507,6 +2518,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "xxxinsgesamt",
                 "so₂",
                 "noₓ",
                 "nh₃",

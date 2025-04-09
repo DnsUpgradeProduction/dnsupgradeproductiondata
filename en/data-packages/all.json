@@ -49,7 +49,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -62,6 +62,18 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "XXXNachhaltigkeitszertifizierte Kultur- und Medieneinrichtungen",
+                "XXXProduktionen audiovisueller Medien, bei denen ökologische Standards eingehalten wurden",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -593,8 +605,8 @@
                 "Raw material input productivity",
                 "Raw material input for consumption, investment and exports",
                 "Value of consumption, investment and exports (price-adjusted)",
-                "XXX<u>Infolinie:</u> Rohstoffeinsatz für Konsum und Investitionen (RMC)",
-                "XXX<u>Infolinie:</u> Rohstoffeinsatz für Exporte (RMC)",
+                "XXXRohstoffeinsatz für Konsum und Investitionen (RMC)",
+                "XXXRohstoffeinsatz für Exporte (RMC)",
                 ""
               ]
             },
@@ -1705,7 +1717,7 @@
             "constraints": {
               "enum": [
                 "XXXAnteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt",
-                "XXXInfolinie - Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion",
+                "XXXBeitrag Deutschlands zur globalen Pandemieprävention und -reaktion",
                 ""
               ]
             },
@@ -2735,6 +2747,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "XXXInsgesamt",
                 "SO₂",
                 "NOₓ",
                 "NH₃",
