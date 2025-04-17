@@ -1041,7 +1041,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "hectre",
+                "million hectre",
                 ""
               ]
             }
@@ -1430,7 +1430,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "xxxa) anteil nachhaltiger vergabeverfahren",
+                "xxxa) nachhaltigkeit in vergabeverfahren",
                 "b) co2 emissions of commercially available vehicles in the public sector",
                 "xxxc) nachhaltige textilbeschaffung",
                 ""
