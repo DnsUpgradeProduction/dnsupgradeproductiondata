@@ -189,7 +189,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Prozent",
                 "Millionen EUR",
                 ""
               ]
@@ -197,19 +196,7 @@
             "title": "Units"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "<u>Zeitreihe des Indikators:</u> Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt",
-                "<u>Zusätzliche Zeitreihe:</u> Beitrag Deutschlands zur globalen Pandemieprävention, -vorsorge und -reaktion (PPR)",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "xxxzuordnung",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -218,7 +205,7 @@
                 ""
               ]
             },
-            "title": "Zuordnung"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -1769,11 +1756,22 @@
             "title": "Units"
           },
           {
-            "name": "xxxrisikolage",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "Differenz zwischen 'Keine Risikolage' und 'Mindestens eine Risikolage'",
+                "Nach Anzahl der Risikolagen",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "xxxrisikolage",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Keine Risikolage",
                 "Mindestens eine Risikolage",
                 "Insgesamt",
