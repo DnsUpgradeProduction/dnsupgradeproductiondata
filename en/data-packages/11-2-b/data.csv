@@ -15,8 +15,9 @@ Year,Units,Time series,Value
 2018,2005 = 100,Energy consumption in passenger transport,102.445
 2019,2005 = 100,Energy consumption in passenger transport,103.038
 2020,2005 = 100,Energy consumption in passenger transport,86.663
-2021,2005 = 100,Energy consumption in passenger transport,85.669
-2022,2005 = 100,Energy consumption in passenger transport,88.478
+2021,2005 = 100,Energy consumption in passenger transport,87.13
+2022,2005 = 100,Energy consumption in passenger transport,88.184
+2023,2005 = 100,Energy consumption in passenger transport,88.792
 2030,2005 = 100,Energy consumption in passenger transport,
 2005,2005 = 100,Passenger transport performance,100.0
 2006,2005 = 100,Passenger transport performance,101.148
@@ -34,8 +35,9 @@ Year,Units,Time series,Value
 2018,2005 = 100,Passenger transport performance,106.422
 2019,2005 = 100,Passenger transport performance,107.005
 2020,2005 = 100,Passenger transport performance,84.077
-2021,2005 = 100,Passenger transport performance,83.276
-2022,2005 = 100,Passenger transport performance,91.693
+2021,2005 = 100,Passenger transport performance,84.944
+2022,2005 = 100,Passenger transport performance,91.676
+2023,2005 = 100,Passenger transport performance,94.556
 2030,2005 = 100,Passenger transport performance,
 2005,2005 = 100,Energy consumption per passenger-kilometre,100.0
 2006,2005 = 100,Energy consumption per passenger-kilometre,98.12
@@ -53,6 +55,7 @@ Year,Units,Time series,Value
 2018,2005 = 100,Energy consumption per passenger-kilometre,96.263
 2019,2005 = 100,Energy consumption per passenger-kilometre,96.293
 2020,2005 = 100,Energy consumption per passenger-kilometre,103.076
-2021,2005 = 100,Energy consumption per passenger-kilometre,102.874
-2022,2005 = 100,Energy consumption per passenger-kilometre,96.494
+2021,2005 = 100,Energy consumption per passenger-kilometre,102.573
+2022,2005 = 100,Energy consumption per passenger-kilometre,96.192
+2023,2005 = 100,Energy consumption per passenger-kilometre,93.904
 2030,2005 = 100,Energy consumption per passenger-kilometre,

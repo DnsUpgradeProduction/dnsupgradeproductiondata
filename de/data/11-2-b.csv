@@ -15,8 +15,9 @@ Year,Units,Zeitreihe,Value
 2018,2005 = 100,Endenergieverbrauch im Personenverkehr,102.445
 2019,2005 = 100,Endenergieverbrauch im Personenverkehr,103.038
 2020,2005 = 100,Endenergieverbrauch im Personenverkehr,86.663
-2021,2005 = 100,Endenergieverbrauch im Personenverkehr,85.669
-2022,2005 = 100,Endenergieverbrauch im Personenverkehr,88.478
+2021,2005 = 100,Endenergieverbrauch im Personenverkehr,87.13
+2022,2005 = 100,Endenergieverbrauch im Personenverkehr,88.184
+2023,2005 = 100,Endenergieverbrauch im Personenverkehr,88.792
 2030,2005 = 100,Endenergieverbrauch im Personenverkehr,
 2005,2005 = 100,Personenbeförderungsleistung,100.0
 2006,2005 = 100,Personenbeförderungsleistung,101.148
@@ -34,8 +35,9 @@ Year,Units,Zeitreihe,Value
 2018,2005 = 100,Personenbeförderungsleistung,106.422
 2019,2005 = 100,Personenbeförderungsleistung,107.005
 2020,2005 = 100,Personenbeförderungsleistung,84.077
-2021,2005 = 100,Personenbeförderungsleistung,83.276
-2022,2005 = 100,Personenbeförderungsleistung,91.693
+2021,2005 = 100,Personenbeförderungsleistung,84.944
+2022,2005 = 100,Personenbeförderungsleistung,91.676
+2023,2005 = 100,Personenbeförderungsleistung,94.556
 2030,2005 = 100,Personenbeförderungsleistung,
 2005,2005 = 100,Energieverbrauch je Personenkilometer,100.0
 2006,2005 = 100,Energieverbrauch je Personenkilometer,98.12
@@ -53,6 +55,7 @@ Year,Units,Zeitreihe,Value
 2018,2005 = 100,Energieverbrauch je Personenkilometer,96.263
 2019,2005 = 100,Energieverbrauch je Personenkilometer,96.293
 2020,2005 = 100,Energieverbrauch je Personenkilometer,103.076
-2021,2005 = 100,Energieverbrauch je Personenkilometer,102.874
-2022,2005 = 100,Energieverbrauch je Personenkilometer,96.494
+2021,2005 = 100,Energieverbrauch je Personenkilometer,102.573
+2022,2005 = 100,Energieverbrauch je Personenkilometer,96.192
+2023,2005 = 100,Energieverbrauch je Personenkilometer,93.904
 2030,2005 = 100,Energieverbrauch je Personenkilometer,
