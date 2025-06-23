@@ -2422,7 +2422,7 @@
           }
         ]
       },
-      "title": "Corruption Perception Index in Deutschland sowie in den Partnerländern der deutschen Entwicklungszusammenarbeit"
+      "title": "Corruption Perceptions Index in Deutschland sowie in den Partnerländern der deutschen Entwicklungszusammenarbeit"
     },
     {
       "path": "5-1-e/data.csv",
@@ -2612,16 +2612,16 @@
             }
           },
           {
-            "name": "sub index",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
-                "forest sub-index",
-                "settlements sub-index",
-                "farmland sub-index",
+                "<u>time series of the indicator:</u> total",
+                "forest sub-indicator",
+                "settlements sub-indicator",
+                "farmland sub-indicator",
                 "inland waters sub-index",
-                "coasts and seas sub-index",
+                "<u>additional time series:</u> coasts and seas",
                 ""
               ]
             }
